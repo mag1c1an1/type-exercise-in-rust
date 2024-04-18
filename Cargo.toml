@@ -16,5 +16,5 @@ members = [
     "expr-template",
     "expr-template-impl",
     "expr-macro-rules",
-    "maji/day1",
+    "maji/day1", "maji/day2",
 ]
