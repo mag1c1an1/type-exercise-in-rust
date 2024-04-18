@@ -1,3 +1,5 @@
+# 迟先生真是太成功了
+
 # Type Exercise in Rust
 
 This is a short lecture on how to use the Rust type system to build necessary components in a database system.
